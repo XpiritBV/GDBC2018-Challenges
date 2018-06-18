@@ -1,0 +1,1 @@
+CREATE TABLE TestArtist ( Id int primary key, Name varchar(255) not null )
