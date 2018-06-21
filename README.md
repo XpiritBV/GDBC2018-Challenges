@@ -2,7 +2,7 @@
 Here you can find the Challenges and Achievements for Global DevOps BootCamp 2018
 
 * All Challenges (Business stories) were generated as features. They are called F001-FXXX
-* All Achievements (exercises) were generated as Prodcuct Backlog Items. They are called F001-P000-PXXX. the P000 describes the sequence
+* All Achievements (exercises) were generated as Product Backlog Items. They are called F001-P000-PXXX. the P000 describes the sequence
 * Filenames do not match the titles of the story, so beware of that
 * Step by Step help + files can be found in the according folder / help (if available)
 * Attachments can be found in the folder "content" if they were attached to a work item
